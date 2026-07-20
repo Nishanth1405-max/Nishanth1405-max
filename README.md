@@ -527,3 +527,61 @@ Contributing to personal projects while continuously improving development workf
 | Cloud Technologies | ⭐⭐⭐☆☆ |
 
 </div>
+<!-- ========================================================= -->
+<!--                     ACHIEVEMENTS                          -->
+<!-- ========================================================= -->
+
+# 🏆 Achievements
+
+<div align="center">
+
+| **Recognition** | **Details** |
+|:----------------|:------------|
+| 🎓 **Computer Science Undergraduate** | Pursuing B.Tech in Computer Science & Engineering with a strong focus on Artificial Intelligence, Machine Learning, and Software Engineering. |
+| 🤖 **AI & Machine Learning Projects** | Successfully designed and developed multiple end-to-end Machine Learning and AI-based applications solving real-world problems. |
+| 💻 **Full Stack Development** | Built responsive web applications using React.js, JavaScript, HTML, CSS, and MySQL following modern development practices. |
+| 📊 **Data Science Expertise** | Developed complete ML workflows including data preprocessing, feature engineering, model training, evaluation, and prediction. |
+| 🔍 **Research & Innovation** | Explored Computer Vision, Natural Language Processing, Recommendation Systems, and AI-driven solutions through independent research projects. |
+| 📚 **Continuous Learning** | Consistently expanding knowledge through certifications, technical documentation, coding practice, and hands-on implementation. |
+| 🌐 **Open Source Mindset** | Maintains projects on GitHub with emphasis on clean code, documentation, and version control best practices. |
+| 🚀 **Problem Solver** | Passionate about designing scalable software systems and transforming innovative ideas into practical engineering solutions. |
+
+</div>
+
+---
+
+## 📈 Highlights
+
+<div align="center">
+
+| Metric | Achievement |
+|:-------:|:-----------|
+| 🚀 **Projects Built** | **4+ End-to-End Applications** |
+| 🤖 **AI / ML Projects** | **Machine Learning, Recommendation Systems, Computer Vision** |
+| 🌐 **Web Applications** | **Responsive Full Stack Development** |
+| 📚 **Certifications** | **Google Cloud, Infosys, Tata GenAI & More** |
+| 💡 **Learning Areas** | **AI • ML • NLP • Deep Learning • LLMs • Cloud** |
+| 🔧 **Core Skills** | **Python • React • JavaScript • SQL • Git** |
+
+</div>
+
+---
+
+## 🌟 Professional Strengths
+
+<div align="center">
+
+| Strength | Focus Area |
+|:---------|:-----------|
+| 🧠 Analytical Thinking | Breaking down complex problems into efficient technical solutions |
+| ⚡ Fast Learner | Quickly adapting to new technologies, frameworks, and AI tools |
+| 🏗 Software Engineering | Writing clean, modular, and maintainable code |
+| 📊 Data-Driven Mindset | Leveraging data analysis and ML models for informed decision-making |
+| 🤝 Team Collaboration | Comfortable working in collaborative development environments |
+| 📖 Self-Motivated | Strong commitment to continuous improvement and lifelong learning |
+
+</div>
+
+---
+
+> **Committed to building impactful software through innovation, engineering excellence, and continuous learning.**
