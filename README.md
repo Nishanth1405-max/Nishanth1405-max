@@ -57,3 +57,51 @@
 <img src="https://img.shields.io/github/stars/<YOUR_USERNAME>?affiliations=OWNER&style=for-the-badge&color=8B5CF6&label=Stars"/>
 
 </p>
+
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+# 💫 About Me
+
+I am a **Computer Science undergraduate** passionate about designing intelligent software systems that solve real-world problems through **Artificial Intelligence, Machine Learning, and Full Stack Development**.
+
+My primary focus is building scalable, production-ready applications by combining strong software engineering principles with modern AI technologies. I enjoy transforming complex ideas into practical products while continuously improving my expertise in system design, backend engineering, and data-driven applications.
+
+Currently, I am expanding my knowledge in **Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Large Language Models (LLMs), and Cloud Technologies**, while actively developing end-to-end projects that strengthen both my engineering and problem-solving skills.
+
+I believe great software is built through continuous learning, collaboration, and clean engineering practices. My goal is to contribute to high-impact products that deliver meaningful value to users while growing as a Software Engineer specializing in AI-powered systems.
+
+---
+
+## 🚀 Open To
+
+- Software Engineering Internships
+- Machine Learning Engineer Roles
+- AI Research & Development
+- Full Stack Development
+- Open Source Contributions
+- Hackathons & Technical Collaborations
+- Backend Engineering
+- Cloud & DevOps Learning Opportunities
+
+---
+
+## 🎯 Current Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI & LLMs
+- Software Architecture
+- Backend Development
+- Distributed Systems
+- Cloud Computing
+- Data Engineering
+- Open Source
+
+---
+
+> **"Building intelligent software with clean engineering, scalable architecture, and continuous innovation."**
