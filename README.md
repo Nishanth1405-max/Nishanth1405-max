@@ -585,3 +585,122 @@ Contributing to personal projects while continuously improving development workf
 ---
 
 > **Committed to building impactful software through innovation, engineering excellence, and continuous learning.**
+<!-- ========================================================= -->
+<!--                   CERTIFICATIONS                          -->
+<!-- ========================================================= -->
+
+# 📜 Certifications
+
+---
+
+## ☁️ Google Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google_Cloud-Generative_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Skill_Badges-22_Completed-34A853?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</p>
+
+---
+
+## 🏢 Infosys Springboard
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Infosys-Machine_Learning_&_AI-007CC3?style=for-the-badge&logo=infosys&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Infosys-HTML_&_React.js-007CC3?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Infosys-Virtual_Internship-007CC3?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 Tata
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tata-GenAI_Powered_Data_Analytics-005BAC?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Cisco
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Python_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+---
+
+## 📚 Oracle
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle-Learning_Path-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+## 🎓 NPTEL
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Engineering_Courses-8E24AA?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ Amazon Web Services
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Certification Summary
+
+<div align="center">
+
+| Provider | Focus Area | Status |
+|:---------|:-----------|:------:|
+| Google Cloud | Generative AI | ✅ Completed |
+| Infosys Springboard | Machine Learning & AI | ✅ Completed |
+| Infosys Springboard | HTML, JavaScript & React.js | ✅ Completed |
+| Tata | GenAI Powered Data Analytics | ✅ Completed |
+| Cisco | Python & Networking | ✅ Completed |
+| Oracle | Learning Path | 📖 Ongoing |
+| AWS | Cloud Fundamentals | 📖 Learning |
+
+</div>
+
+---
+
+## 🎯 Continuous Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Lifelong_Learner-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI_Engineer_Path-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-4338CA?style=for-the-badge"/>
+
+</p>
