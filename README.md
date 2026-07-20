@@ -105,3 +105,97 @@ I believe great software is built through continuous learning, collaboration, an
 ---
 
 > **"Building intelligent software with clean engineering, scalable architecture, and continuous innovation."**
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,html,css" />
+
+</p>
+
+---
+
+## Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
+
+</p>
+
+---
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite,firebase" />
+
+</p>
+
+---
+
+## Artificial Intelligence & Data Science
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Cloud, DevOps & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,githubactions" />
+
+</p>
+
+---
+
+## Currently Exploring
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Large%20Language%20Models-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangChain-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-4338CA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS%20Cloud-6366F1?style=for-the-badge"/>
+
+</p>
