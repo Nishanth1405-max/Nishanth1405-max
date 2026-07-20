@@ -401,3 +401,129 @@ An AI-driven behavioral analysis system that leverages Computer Vision and Deep 
 | End-to-End Applications | **4+** |
 
 </div>
+<!-- ========================================================= -->
+<!--                      EXPERIENCE                           -->
+<!-- ========================================================= -->
+
+# 💼 Experience
+
+---
+
+## 🧑‍💻 Machine Learning & Software Development Enthusiast
+
+**Independent Projects & Self-Learning**
+
+**2024 – Present**
+
+Building end-to-end Artificial Intelligence, Machine Learning, and Full Stack applications while continuously improving software engineering skills through real-world development and hands-on experimentation.
+
+### Responsibilities
+
+- Designed and developed multiple end-to-end Machine Learning applications.
+- Built scalable web applications using modern frontend technologies.
+- Implemented complete ML pipelines including preprocessing, feature engineering, model training, and evaluation.
+- Practiced clean code principles and modular software architecture.
+- Utilized Git and GitHub for version control and project management.
+- Continuously explored emerging AI technologies including LLMs, NLP, and Computer Vision.
+- Improved problem-solving abilities through consistent coding practice and technical learning.
+
+### Technologies
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+
+</p>
+
+---
+
+## 🎓 AI & Machine Learning Learner
+
+**Continuous Learning Journey**
+
+**2023 – Present**
+
+Actively pursuing advanced knowledge in Artificial Intelligence, Data Science, Software Engineering, and Cloud Computing through certifications, technical documentation, research papers, and hands-on implementation.
+
+### Learning Focus
+
+- Machine Learning Algorithms
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Full Stack Development
+- Backend Engineering
+- Cloud Fundamentals
+- System Design
+
+### Skills Acquired
+
+<p>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6D28D9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-4F46E5?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Software%20Engineering-4338CA?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-6366F1?style=flat-square"/>
+
+</p>
+
+---
+
+## 🤝 Open Source & Collaboration
+
+**GitHub Contributor**
+
+**Present**
+
+Contributing to personal projects while continuously improving development workflows, documentation quality, and software engineering best practices.
+
+### Contributions
+
+- Version Control using Git & GitHub
+- Repository Management
+- Documentation Writing
+- Issue Tracking
+- Feature Development
+- Code Refactoring
+- Continuous Learning
+- Community Collaboration
+
+---
+
+## 📈 Experience Snapshot
+
+<div align="center">
+
+| Area | Experience |
+|------|:----------:|
+| Machine Learning | ⭐⭐⭐⭐☆ |
+| Software Engineering | ⭐⭐⭐⭐☆ |
+| Full Stack Development | ⭐⭐⭐⭐☆ |
+| Data Analysis | ⭐⭐⭐⭐☆ |
+| Computer Vision | ⭐⭐⭐⭐☆ |
+| Artificial Intelligence | ⭐⭐⭐⭐☆ |
+| Backend Development | ⭐⭐⭐☆☆ |
+| Cloud Technologies | ⭐⭐⭐☆☆ |
+
+</div>
