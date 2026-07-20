@@ -199,3 +199,54 @@ I believe great software is built through continuous learning, collaboration, an
 <img src="https://img.shields.io/badge/AWS%20Cloud-6366F1?style=for-the-badge"/>
 
 </p>
+<!-- ========================================================= -->
+<!--                  AI / ML EXPERTISE                        -->
+<!-- ========================================================= -->
+
+# 🤖 AI / Machine Learning Expertise
+
+<div align="center">
+
+| **Domain** | **Proficiency** | **Details** |
+|:-----------|:---------------:|:------------|
+| **Machine Learning** | ⭐⭐⭐⭐☆ | Supervised & Unsupervised Learning, Classification, Regression, Model Evaluation, Feature Engineering |
+| **Data Analysis** | ⭐⭐⭐⭐☆ | Data Cleaning, EDA, Data Visualization, Statistical Analysis, Data Preprocessing |
+| **Deep Learning** | ⭐⭐⭐☆☆ | Neural Networks, CNN Fundamentals, TensorFlow & PyTorch Learning |
+| **Computer Vision** | ⭐⭐⭐⭐☆ | Image Processing, Object Detection, OpenCV, Real-world Vision Applications |
+| **Natural Language Processing** | ⭐⭐⭐☆☆ | Text Processing, Tokenization, Sentiment Analysis, NLP Fundamentals |
+| **Generative AI** | ⭐⭐⭐⭐☆ | Prompt Engineering, LLM Applications, AI Assistants, Workflow Automation |
+| **Recommendation Systems** | ⭐⭐⭐⭐☆ | Collaborative Filtering, Content-Based Filtering, Personalized Recommendation Models |
+| **Fraud Detection** | ⭐⭐⭐⭐☆ | Classification Models, Imbalanced Dataset Handling, Feature Engineering |
+| **Data Engineering** | ⭐⭐⭐☆☆ | Data Pipelines, ETL Concepts, SQL, Data Transformation |
+| **MLOps Fundamentals** | ⭐⭐⭐☆☆ | Model Deployment Basics, Version Control, Reproducible ML Workflows |
+| **Software Engineering** | ⭐⭐⭐⭐☆ | Clean Code, API Integration, Modular Architecture, Git Workflow |
+| **Research & Problem Solving** | ⭐⭐⭐⭐⭐ | Algorithm Design, Critical Thinking, Rapid Prototyping, Technical Documentation |
+
+</div>
+
+---
+
+## 📌 Core Competencies
+
+<div align="center">
+
+| **Area** | **Technologies & Skills** |
+|-----------|---------------------------|
+| **Programming** | Python • JavaScript • Java • C |
+| **Machine Learning** | Scikit-Learn • NumPy • Pandas • Feature Engineering • Model Training |
+| **Visualization** | Matplotlib • Data Analysis • Exploratory Data Analysis |
+| **Web Development** | HTML • CSS • React.js • JavaScript |
+| **Databases** | MySQL • SQLite • SQL |
+| **Version Control** | Git • GitHub |
+| **Development Tools** | VS Code • Google Colab • Jupyter Notebook • Postman |
+| **Soft Skills** | Problem Solving • Communication • Team Collaboration • Continuous Learning |
+
+</div>
+
+---
+
+## 🎯 Engineering Philosophy
+
+> **Build AI that solves real problems.**
+>
+> I focus on designing reliable, scalable, and production-oriented software by combining modern Machine Learning techniques with strong software engineering principles. My approach emphasizes clean architecture, maintainable code, data-driven decision making, and continuous improvement to create impactful AI-powered applications.
