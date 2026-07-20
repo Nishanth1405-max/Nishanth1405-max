@@ -250,3 +250,154 @@ I believe great software is built through continuous learning, collaboration, an
 > **Build AI that solves real problems.**
 >
 > I focus on designing reliable, scalable, and production-oriented software by combining modern Machine Learning techniques with strong software engineering principles. My approach emphasizes clean architecture, maintainable code, data-driven decision making, and continuous improvement to create impactful AI-powered applications.
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                        -->
+<!-- ========================================================= -->
+
+# 🚀 Featured Projects
+
+---
+
+<details open>
+<summary><b>💳 Credit Card Fraud Detection System</b></summary>
+
+<br>
+
+### 📌 Overview
+
+A Machine Learning-based fraud detection system designed to identify suspicious credit card transactions using classification algorithms and intelligent feature engineering. The project focuses on improving fraud detection accuracy while minimizing false positives.
+
+| Category | Details |
+|-----------|----------|
+| **Technology Stack** | Python • Scikit-Learn • Pandas • NumPy • Matplotlib |
+| **Project Scale** | End-to-End Machine Learning Pipeline |
+| **Performance** | Data preprocessing, feature engineering, model training & evaluation |
+| **Security** | Fraud pattern identification using classification models |
+| **Impact** | Improved transaction risk assessment through predictive analytics |
+| **Repository** | **[View Project](https://github.com/YOUR_USERNAME/Credit-Card-Fraud-Detection)** |
+
+### Highlights
+
+- Built an end-to-end ML pipeline.
+- Performed extensive data preprocessing.
+- Applied feature engineering techniques.
+- Trained multiple classification models.
+- Evaluated models using ML performance metrics.
+- Reduced false positives through data optimization.
+- Followed reproducible ML workflow.
+
+</details>
+
+---
+
+<details>
+<summary><b>🎬 Movie Recommendation System</b></summary>
+
+<br>
+
+### 📌 Overview
+
+A personalized recommendation engine that suggests movies based on user preferences using collaborative filtering techniques and similarity-based recommendation algorithms.
+
+| Category | Details |
+|-----------|----------|
+| **Technology Stack** | Python • Pandas • NumPy • Scikit-Learn |
+| **Project Scale** | Recommendation Engine |
+| **Performance** | Personalized recommendations using collaborative filtering |
+| **Security** | User preference-based prediction pipeline |
+| **Impact** | Enhanced user engagement with intelligent recommendations |
+| **Repository** | **[View Project](https://github.com/YOUR_USERNAME/Movie-Recommendation-System)** |
+
+### Highlights
+
+- Built collaborative filtering model.
+- Personalized movie recommendations.
+- Similarity score computation.
+- Recommendation ranking.
+- Efficient dataset processing.
+- Modular ML architecture.
+- Clean and scalable implementation.
+
+</details>
+
+---
+
+<details>
+<summary><b>🛒 Full Stack E-Commerce Platform</b></summary>
+
+<br>
+
+### 📌 Overview
+
+A responsive full-stack e-commerce application featuring authentication, product catalog, shopping cart functionality, and database integration. Designed with scalability and user experience in mind.
+
+| Category | Details |
+|-----------|----------|
+| **Technology Stack** | React.js • HTML • CSS • JavaScript • MySQL |
+| **Project Scale** | Full Stack Web Application |
+| **Performance** | Responsive UI with optimized user experience |
+| **Security** | User authentication & database-driven architecture |
+| **Impact** | Complete online shopping workflow implementation |
+| **Repository** | **[View Project](https://github.com/YOUR_USERNAME/E-Commerce-Website)** |
+
+### Highlights
+
+- Responsive React interface.
+- User authentication.
+- Shopping cart management.
+- Product listing system.
+- Database integration.
+- Component-based architecture.
+- Clean frontend design.
+
+</details>
+
+---
+
+<details>
+<summary><b>🧠 AI-Powered Behavioral Analysis for Online Proctoring</b></summary>
+
+<br>
+
+### 📌 Overview
+
+An AI-driven behavioral analysis system that leverages Computer Vision and Deep Learning techniques to monitor candidate activities during online examinations. The system detects suspicious behaviors to support fair and secure remote assessments.
+
+| Category | Details |
+|-----------|----------|
+| **Technology Stack** | Python • OpenCV • Deep Learning • Computer Vision |
+| **Project Scale** | AI Research Project |
+| **Performance** | Real-time behavioral monitoring and detection |
+| **Security** | Automated anomaly detection during examinations |
+| **Impact** | Enhanced integrity and transparency in online assessments |
+| **Repository** | **Coming Soon** |
+
+### Highlights
+
+- Real-time video analysis.
+- Face & behavioral monitoring.
+- Computer Vision pipeline.
+- Deep Learning integration.
+- Research-oriented implementation.
+- Scalable AI architecture.
+- Practical educational use case.
+
+</details>
+
+---
+
+## 📊 Project Summary
+
+<div align="center">
+
+| Category | Count |
+|----------|:-----:|
+| Machine Learning Projects | **2** |
+| AI Projects | **1** |
+| Full Stack Applications | **1** |
+| Computer Vision Projects | **1** |
+| Research Projects | **1** |
+| End-to-End Applications | **4+** |
+
+</div>
